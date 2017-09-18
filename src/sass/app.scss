@@ -1,0 +1,12 @@
+//Test
+body{
+	background-color: red;
+}
+
+// General
+@import "variables";
+@import "type";
+@import "helpers";
+
+// Components
+@import "buttons";
